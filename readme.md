@@ -22,4 +22,6 @@ Custom boot logo /animation (.dfu)
 - create logo/anim (photoshop > layers > keyframes > export.gif) 
 - install python
 - run py script (gif > dfu)
-- use PineFlash (or other updater) to flash logo.dfu 
+- use PineFlash (or other updater) to flash logo.dfu
+  
+alh13.gif
