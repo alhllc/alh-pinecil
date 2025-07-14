@@ -1,4 +1,4 @@
-# Pinecil, ALH edition
+# Pinecil, ALH edition ![](./alh13.gif)
 
 
 Manifest:
@@ -24,4 +24,5 @@ Custom boot logo /animation (.dfu)
 - run py script (gif > dfu)
 - use PineFlash (or other updater) to flash logo.dfu
   
+Current boot anim.gif.dfu
 ![](./alh13.gif)
