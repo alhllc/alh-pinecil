@@ -24,4 +24,4 @@ Custom boot logo /animation (.dfu)
 - run py script (gif > dfu)
 - use PineFlash (or other updater) to flash logo.dfu
   
-alh13.gif
+[](alh13.gif)
