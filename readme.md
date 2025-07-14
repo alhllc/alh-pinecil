@@ -6,7 +6,7 @@ Manifest:
 - Pinecil v1, ironOS v
 - Pinecil v2, ironOS v
 - custom boot logo.dfu https://ralim.github.io/IronOS/Logo/
-- Pineflash v0.5.5 Windows https://github.com/Spagett1/pineflash
+- Pineflash v0.5.5 Windows [https://github.com/Spagett1/pineflash](https://github.com/Spagett1/pineflash/releases/tag/0.5.5)
 
 
 Resources: 
@@ -24,4 +24,4 @@ Custom boot logo /animation (.dfu)
 - run py script (gif > dfu)
 - use PineFlash (or other updater) to flash logo.dfu
   
-[](./alh13.gif)
+![](./alh13.gif)
