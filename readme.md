@@ -25,6 +25,6 @@ Custom boot logo /animation (.dfu)
 - use PineFlash (or other updater) to flash logo.dfu
   
 Current boot anim.gif.dfu
-- 8 sec animation (too long...) 
-![](./alh13.gif)
+- 8 sec animation (~0.5s too long...)
+- ![](./alh13.gif)
 
