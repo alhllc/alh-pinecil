@@ -3,8 +3,8 @@
 
 Manifest:
 
-- Pinecil v1, ironOS v
-- Pinecil v2, ironOS v
+- Pinecil v1, ironOS v??
+- Pinecil v2, ironOS v??
 - custom boot logo.dfu https://ralim.github.io/IronOS/Logo/
 - Pineflash v0.5.5 Windows [https://github.com/Spagett1/pineflash](https://github.com/Spagett1/pineflash/releases/tag/0.5.5)
 
@@ -25,6 +25,6 @@ Custom boot logo /animation (.dfu)
 - use PineFlash (or other updater) to flash logo.dfu
   
 Current boot anim.gif.dfu
-
+- 8 sec animation (too long...) 
 ![](./alh13.gif)
-- 8sec animation (too long...) 
+
