@@ -33,4 +33,14 @@ Current boot anim.gif.dfu
 - [ ] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?)
 - [ ] display folder contents (gifs, pngs) in README
 - [ ] update bootlogo instructions
-- [ ] upload bootlogo python scripts 
+- [ ] upload bootlogo python scripts
+
+Auto-display all images in a folder?
+
+- js node
+  - https://stackoverflow.com/questions/66989447/i-want-to-display-images-in-a-github-repo-for-people-to-view >> github.com/nhoizey/nicolas-hoizey.com/blob/main/src/assets/logos/README.md
+- jekyll?
+  - https://gist.github.com/leabs/2542f92a168765b3faa1334c15da929f
+  - https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/
+- matplot
+  - https://gist.github.com/sauravmishra1710/aeba76e0e0bb41230edf64338dc0dda7
