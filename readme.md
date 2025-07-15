@@ -30,5 +30,7 @@ Current boot anim.gif.dfu
 
 
 ## To do??
-- [] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?)
-- [] display folder contents (gifs, pngs) in README
+- [ ] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?)
+- [ ] display folder contents (gifs, pngs) in README
+- [ ] update bootlogo instructions
+- [ ] upload bootlogo python scripts 
