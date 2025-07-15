@@ -4,7 +4,7 @@ import matplotlib.image as mpimg
 %matplotlib inline
 
 images = []
-for img_path in glob.glob('./stocklogos/*.png'):
+for img_path in glob.glob('./pinecil stock logos/*.png'):
     images.append(mpimg.imread(img_path))
 
 plt.figure(figsize=(20,10))
