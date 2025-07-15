@@ -30,4 +30,5 @@ Current boot anim.gif.dfu
 
 
 ## To do??
-[] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?) 
+- [] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?)
+- [] display folder contents (gifs, pngs) in README
