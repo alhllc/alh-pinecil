@@ -28,3 +28,6 @@ Current boot anim.gif.dfu
 - 8 sec animation (~0.5s too long...)
 - ![](./alh13.gif)
 
+
+## To do??
+[] shorten boot anim by 0.5s or 1.0s (remove 1x 'blink' frameset?) 
