@@ -17,7 +17,7 @@ Resources:
 - pineflash gui updater, supports pinecil v1 and v2; flash firmware OR boot logo https://github.com/Spagett1/pineflash
 - v2 BLE webGUI (untested) https://joric.github.io/pinecil/
 - v2 BLE webGUI (untested) https://github.com/builder555/PineSAM
-- dismantle/repair/case mod 
+- dismantle/repair/case mod https://pine64.org/documentation/Pinecil/How_to_repair/
   
 
 Custom boot logo /animation (.dfu)
